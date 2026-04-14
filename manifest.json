@@ -1,0 +1,28 @@
+{
+  "background_color": "#f9f7f2",
+  "description": "Scan products and instantly understand how tariffs impact pricing in real time.",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "TariffSnap",
+  "orientation": "portrait",
+  "scope": "/",
+  "short_name": "TariffSnap",
+  "start_url": "/",
+  "theme_color": "#1a3c34",
+  "icons": [
+    {
+      "src": "https://tariffsnap.org/favicon.ico",
+      "type": "image/x-icon",
+      "isSquare": false,
+      "isPng": false,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 0,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    }
+  ],
+  "id": "tariffsnap.app",
+  "lang": "en"
+}

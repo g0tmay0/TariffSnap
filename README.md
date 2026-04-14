@@ -1,8 +1,8 @@
 # TariffSnap
 
-**Scan products. See the hidden cost. Make smarter buying decisions.**
+**Scan products. See the real cost. Understand tariff impact instantly.**
 
-TariffSnap is a mobile-first app that lets you scan or search products and instantly estimate how tariffs impact their price. Most consumers never see how global trade affects what they pay — this makes it visible.
+TariffSnap is a mobile-first app that lets you scan or search products and instantly estimate how tariffs impact their price. Most consumers never see how global trade affects what they pay — TariffSnap makes it visible.
 
 ---
 
@@ -14,10 +14,10 @@ TariffSnap is a mobile-first app that lets you scan or search products and insta
 * 🔍 **Search Manually**
   Look up products if scanning isn’t available
 
-* 🌍 **Country of Origin Insight**
+* 🌍 **Country of Origin Insights**
   Understand where products are coming from
 
-* 💰 **Tariff Impact Estimate**
+* 💰 **Tariff Impact Estimation**
   See how much of the price may be influenced by tariffs
 
 * 📊 **Simple Price Breakdown**
@@ -25,30 +25,30 @@ TariffSnap is a mobile-first app that lets you scan or search products and insta
 
 ---
 
-## 🧠 Why This Matters
+## 💡 Why This Matters
 
-Consumers are making decisions blind.
+Consumers are making decisions without seeing the full picture.
 
-Tariffs, imports, and global sourcing all affect pricing—but none of that is visible at the shelf.
+Tariffs, imports, and global sourcing all affect pricing — but none of that is visible at the shelf.
 
 TariffSnap gives people:
 
 * transparency
 * awareness
-* leverage
+* context
 
 ---
 
-## 🛠 Tech Overview
+## 🧠 Tech Stack
 
-* Frontend: React (PWA)
-* Backend: Node.js (in progress)
-* Barcode Scanning: html5-qrcode
-* Data Sources: UPC lookup + tariff estimation logic
+* **Frontend:** React (PWA)
+* **Backend:** Node.js (in progress)
+* **Barcode Scanning:** html5-qrcode
+* **Data Sources:** UPC lookup + tariff estimation logic
 
 ---
 
-## 📱 PWA Capabilities
+## 📱 App Capabilities
 
 * Installable like a native app
 * Works on mobile and desktop
@@ -57,57 +57,60 @@ TariffSnap gives people:
 
 ---
 
+## 🔍 Core Experience
+
+1. Open the app
+2. Scan or search a product
+3. View a simple price breakdown
+4. Understand estimated tariff impact instantly
+
+---
+
 ## ⚙️ Current Status
 
 🚧 Active development
 
-Working:
+### Working:
 
 * UI structure
 * Barcode scanning
 * Search flow
-* Core app layout
 
-Improving:
+### Improving:
 
 * Data accuracy
-* Tariff calculation logic
+* Tariff calculations
 * Performance
 * UI polish
 
 ---
 
-## 🔮 Roadmap
+## 🎯 Vision
 
-* Better tariff data sources
-* Expanded product coverage
-* Saved scans / history
-* Premium insights layer
-* Monetization via ads + subscription
+TariffSnap is building a new layer of consumer awareness.
 
----
+The goal is simple:
 
-## 💡 Example Use Case
-
-You’re in a store comparing two similar products.
-
-Instead of guessing:
-
-* scan both
-* compare origin
-* see estimated tariff impact
-* make a smarter decision
+> Make global trade visible at the point of purchase.
 
 ---
 
-## ⚠️ Disclaimer
+## 📌 Roadmap (Next Steps)
 
-Tariff estimates are approximations based on available data and modeling.
-They are intended for informational purposes only.
+* Real-time tariff data integration
+* Expanded product database
+* Enhanced price breakdown visuals
+* Source verification layer
+* Market impact insights
 
 ---
 
-## 📌 Vision
+## 📄 License
 
-TariffSnap aims to become the **most trusted consumer tool for understanding real product costs in a global economy.**
+[Add your license here]
 
+---
+
+## 📬 Contact
+
+[Add contact or project link here]

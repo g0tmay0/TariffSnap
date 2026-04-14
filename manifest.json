@@ -1,26 +1,42 @@
 {
-  "background_color": "#f9f7f2",
-  "dir": "ltr",
-  "display": "standalone",
-  "name": "TariffSnap",
-  "orientation": "portrait",
-  "scope": "/",
-  "short_name": "TariffSnap",
-  "start_url": "/",
-  "theme_color": "#1a3c34",
-  "id": "tariffsnap.app",
-  "description": "Scan products and instantly understand how tariffs impact pricing in real time.",
-  "lang": "en",
-  "categories": [
-    "finance",
-    "shopping",
-    "utilities"
-  ],
-  "shortcuts": [
-    {
-      "name": "Scan Product",
-      "url": "/TariffSnap/",
-      "description": "Scan a product and view tariff impact"
-    }
-  ]
+"name": "TariffSnap",
+"short_name": "TariffSnap",
+"id": "/TariffSnap/",
+"start_url": "/TariffSnap/",
+"scope": "/TariffSnap/",
+"display": "standalone",
+"background_color": "#F9F7F2",
+"theme_color": "#1A3C34",
+"description": "Scan products and see how tariffs impact real prices.",
+"icons": [
+{
+"src": "./192.png",
+"sizes": "192x192",
+"type": "image/png"
+},
+{
+"src": "./512.png",
+"sizes": "512x512",
+"type": "image/png"
+},
+{
+"src": "./tariffsnap-icon-512.png",
+"sizes": "512x512",
+"type": "image/png",
+"purpose": "any maskable"
 }
+],
+"shortcuts": [
+{
+"name": "Scan Product",
+"url": "/TariffSnap/",
+"description": "Scan a product and view tariff impact"
+}
+],
+"categories": [
+"shopping",
+"finance",
+"utilities"
+]
+}
+
